@@ -23,16 +23,16 @@ These countires are seeking war, which essentially takes lives from humans again
 
 Open source benefits everyone in the world. Unfortunately, it also benefits countries that are seeking war. So we, Anti CIRN, or Acirn, are seeking of blocking these countries from taking advantage of people's good will, and use them for war related purposes.
 
-Our approach is quite simple: we are adding an "Anti Cirn header" in front of some open source licenses, and we will be using these in our own open source projects. You can choose one of them to include them in your own open source projects.
+Our approach is quite simple: we are adding an "Anti CIRN header" in front of some open source licenses, and we will be using these in our own open source projects. You can choose one of them to include them in your own open source projects.
 
 ### The ANTI CIRN LICENSE header
 
 ```
 ANTI CIRN NOTICE: "This software" includes any part of the contents of this repository.
 
-All legal entities, who pay tax to the following "Cirn" countries, shall not use this software in any form, including but not limited to releasing, modifying, referencing, publishing, compiling, building, use it as a tool, use it as education material, and so on. 
+All legal entities, who pay tax to the following "CIRN" countries, shall not use this software in any form, including but not limited to releasing, modifying, referencing, publishing, compiling, building, using it as a tool, using it as education material, and so on. 
 
-Cirn country list:
+CIRN country list:
 - Russia
 - China (Not including Taiwan)
 - Iran
@@ -40,22 +40,27 @@ Cirn country list:
 
 If any of the following parts of the license file contradict against the parts above, the above is preferred and has higher priority.
 
-Any software that contains this software shall have all the "Anti Cirn" contents, including all texts above and this line, in their own license file.
+Any derivative software that contains parts of this software shall have all the "Anti CIRN" contents, including all texts above and this line, in their own license file.
+
+---
+
 ```
 
 ### Modifying the ANTI CIRN LICENSE header
 
-We allow anyone to modify our header. You are encouraged to modify the "Cirn country list" section based on your preference. Furthermore, you may want to remove the last line to make your software not "contagious".
+We allow anyone to modify our header. You are encouraged to modify the "CIRN country list" section based on your preference. Furthermore, you may want to remove the last line to make your software not "contagious".
 
-Furthermore, you are even authorized to publish your own "anti-Anti Cirn" licenses, because:
+Furthermore, you are even authorized to publish your own "anti-Anti CIRN" licenses, because:
 
 [I Disapprove of What You Say, But I Will Defend to the Death Your Right to Say It](https://quoteinvestigator.com/2015/06/01/defend-say/)
 
-### Q & A
+## Q & A
 
 **Are you allowed to modify the open source licenses?**
 
-This question can be breakdown into multiple sections.
+Some licenses, like GPL, explicitly states that changing them is not allowed. In this case we are not going to publish any Acirn versions.
+
+For other licenses, this question can be breakdown into multiple sections.
 
 - **Are we authorized to modify these licenses?** No, we aren't. And we doubt if we will ever be authorized to do so.
 - **Can we modify these licenses?** Yes, we can, although we must accept the legal consequence if we choose to do so.
@@ -80,3 +85,9 @@ We would like to say something like "people who support Acirn countries are not 
 **How do you enforce these licenses?**
 
 Of course, we can't enforce these licenses, if the violation happens in Acirn countries, and we don't encourage anyone who uses our license to do so either. The moment we file a complaint in these countries, we will probably be put in jail. The purpose of our licenses is firstly about delivering a message, and if the corporations who violate our license also have assess in other countries, legal actions can be taken to compensate copyright owners.
+
+## Licenses
+
+- [Anti CIRN MIT License](acirn-mit.md)
+- [Anti CIRN 2-Clause BSD License](acirn-bsd-3-clause.md)
+- [Anti CIRN 2-Clause BSD License](acirn-bsd-2-clause.md)

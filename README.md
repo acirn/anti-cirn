@@ -21,4 +21,4 @@ These countires are seeking war, which essentially takes lives from humans again
 
 ### Promoting Anti CIRN open source licenses
 
-Open source benefits everyone in the world. Unfortunately, it also benefits countries that are seeking war. So we, Anti CIRN, are seeking of blocking these countries... (WIP)
+Open source benefits everyone in the world. Unfortunately, it also benefits countries that are seeking war. So we, Anti CIRN, are seeking of blocking these countries from taking advantage of ... (WIP)

@@ -1,6 +1,7 @@
 # Anti CIRN
 
 We are pledged to do whatever we can to stop countries that threaten the peace of the model world.
+
 Мы обязуемся сделать все возможное, чтобы остановить страны, которые угрожают миру модельного мира.
 
 ## What is CIRN?

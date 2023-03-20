@@ -4,6 +4,21 @@ We are pledged to do whatever we can to stop countries that threaten the peace o
 
 Мы обязуемся сделать все возможное, чтобы остановить страны, которые угрожают миру модельного мира.
 
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [What is CIRN?](#what-is-cirn)
+- [Why Anti CIRN](#why-anti-cirn)
+- [What do we do](#what-do-we-do)
+  - [Promoting Anti CIRN open source licenses](#promoting-anti-cirn-open-source-licenses)
+  - [The ANTI CIRN LICENSE header](#the-anti-cirn-license-header)
+  - [Modifying the ANTI CIRN LICENSE header](#modifying-the-anti-cirn-license-header)
+- [Q & A](#q--a)
+- [Licenses](#licenses)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 ## What is CIRN?
 
 CIRN includes the most peace-threating countries, including but not limited to:
@@ -53,6 +68,8 @@ We allow anyone to modify our header. You are encouraged to modify the "CIRN cou
 Furthermore, you are even authorized to publish your own "anti-Anti CIRN" licenses, because:
 
 [I Disapprove of What You Say, But I Will Defend to the Death Your Right to Say It](https://quoteinvestigator.com/2015/06/01/defend-say/)
+
+For this reason, this repo is not published under any Acirn licenses.
 
 ## Q & A
 
